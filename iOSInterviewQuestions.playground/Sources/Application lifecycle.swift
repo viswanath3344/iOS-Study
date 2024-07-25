@@ -15,6 +15,7 @@ S - Suspended
  didFinishLaunchingWithOptions
  applicationDidBecomeActive
  
+ 
  applicationWillResignActive
  applicationDidEnterBackground
  
